@@ -1,0 +1,48 @@
+[submodule "sh"]
+	path = sh
+	url = git@github.com:6du-space/sh.git
+[submodule "6du"]
+	path = 6du
+	url = git@github.com:6du-space/6du.git
+[submodule "docker-dev"]
+	path = docker-dev
+	url = git@github.com:6du-space/docker-dev.git
+[submodule "site"]
+	path = site
+	url = git@github.com:6du-space/site.git
+[submodule "6du-space.github.io"]
+	path = 6du-space.github.io
+	url = git@github.com:6du-space/6du-space.github.io.git
+[submodule "cloudflare"]
+	path = cloudflare
+	url = git@github.com:6du-space/cloudflare.git
+[submodule "config"]
+	path = config
+	url = git@github.com:6du-space/config.git
+[submodule "axios"]
+	path = axios
+	url = git@github.com:6du-space/axios.git
+[submodule "sign"]
+	path = sign
+	url = git@github.com:6du-space/sign.git
+[submodule "once"]
+	path = once
+	url = git@github.com:6du-space/once.git
+[submodule "sodium"]
+	path = sodium
+	url = git@github.com:6du-space/sodium.git
+[submodule "jest-livescript-preprocessor"]
+	path = jest-livescript-preprocessor
+	url = git@github.com:6du-space/jest-livescript-preprocessor.git
+[submodule "docker-dev-run"]
+	path = docker-dev-run
+	url = git@github.com:6du-space/docker-dev-run.git
+[submodule "git-config"]
+	path = git-config
+	url = git@github.com:6du-space/git-config.git
+[submodule "v"]
+	path = v
+	url = git@github.com:dns6/v.git
+[submodule "dns"]
+	path = dns
+	url = git@github.com:6du-space/dns.git
